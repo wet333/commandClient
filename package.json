@@ -1,0 +1,19 @@
+{
+  "name": "consolechatclient",
+  "version": "1.0.0",
+  "description": "A node.js chat client application who runs on the command line.",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wet333/consoleChatClient.git"
+  },
+  "author": "Agustin Wet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wet333/consoleChatClient/issues"
+  },
+  "homepage": "https://github.com/wet333/consoleChatClient#readme"
+}
